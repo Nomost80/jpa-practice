@@ -1,0 +1,12 @@
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/bll/catalogmngmt/PublisherManagerServiceBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/bll/catalogmngmt/BookManagerServiceBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/persistence/catalog/Publisher.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/persistence/catalog/Category.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/bll/catalogmngmt/CatalogManagerServiceBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/persistence/catalog/Book.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/persistence/catalog/Address.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/model/PublisherBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/bll/catalogmngmt/CategoryManagerServiceBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/model/CategoryBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/model/BookBean.java
+/home/guillaumes/Development/workshop-jpa/bookStore/src/main/java/com/bookstore/business/bll/catalogmngmt/CatalogManagerService.java
